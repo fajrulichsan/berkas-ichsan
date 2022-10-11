@@ -38,7 +38,7 @@ body {
    position: absolute;
    top: 3em;
    right: 3em;
-   background-image: url("pas foto.jfif");
+   background-image: url("foto.jpg");
    background-size: cover;
 }
 
@@ -150,29 +150,29 @@ body {
    font-size: 1.1em;
 }
 
-.right .title{
+.right .title {
    text-align: left;
 }
 
-.title-brown{
+.title-brown {
    font-size: 1.1em;
    color: #FFB66B;
    font-weight: 900;
 }
 
-.sub-title-gray{
-   font-size: 1em ;
+.sub-title-gray {
+   font-size: 1em;
    color: #5D5957;
    font-weight: 800;
    letter-spacing: 1px;
    line-height: 5px;
 }
 
-.right .text{
+.right .text {
    color: #686563;
 }
 
-.mt-5{
+.mt-5 {
    margin-top: 2em;
 }
 
@@ -190,16 +190,17 @@ body {
 
 /* footer */
 
-.footer{
+.footer {
    display: flex;
    margin-top: 1em;
 }
-.footer .brown{
+
+.footer .brown {
    width: 20%;
    height: auto;
 }
 
-.footer .gray{
+.footer .gray {
    width: 80%;
    height: auto;
    padding: 1em;
@@ -211,11 +212,11 @@ body {
    color: white;
 }
 
-.footer .gray .nama{
+.footer .gray .nama {
    font-size: 1em;
 }
 
-.footer .gray p{
+.footer .gray p {
    font-size: 0.8em;
    color: rgba(255, 255, 255, 0.678);
    line-height: 4px;
